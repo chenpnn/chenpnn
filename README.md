@@ -1,5 +1,6 @@
 ### Hi, I am Peng Chen! 👋
-- I am a member of @abess-team.
+- I am a Ph.D. student at the University of Science and Technology of China.
+- I am a member of [abess-team](https://github.com/abess-team).
 
 ### My Summary Cards
 <div align="center">
