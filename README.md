@@ -1,26 +1,19 @@
 ### Hi, I am Peng Chen! 👋
 
-### Stats
+### My Summary Cards
 <div align="center">
-<p>
+<!-- <p>
 <a href="https://github-profile-summary-cards.vercel.app/demo.html">Get your own cards now!!</a>
-</p>
+</p> -->
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chenpnn&theme=buefy)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chenpnn&theme=buefy)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chenpnn&theme=buefy)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=chenpnn&theme=buefy)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=chenpnn&theme=buefy&utcOffset=8)
-
-![](https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/profile-summary-card-output/solarized/0-profile-details.svg)
-![](https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/profile-summary-card-output/solarized/1-repos-per-language.svg)
-![](https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/profile-summary-card-output/solarized/2-most-commit-language.svg)
-![](https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/profile-summary-card-output/solarized/3-stats.svg)
-![](https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/profile-summary-card-output/solarized/4-productive-time.svg)
-
 </div>
 
-### Code
+### My WakaTime Coding Activity
 <!--START_SECTION:waka-->
 
 ```txt
