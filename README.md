@@ -20,9 +20,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python       2 hrs 40 mins   █████████████████░░░░░░░░   68.14 %
-Markdown     1 hr 11 mins    ███████▓░░░░░░░░░░░░░░░░░   30.51 %
-SSH Config   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 %
+Python       2 hrs 40 mins   ████████████████████████▓   98.05 %
+SSH Config   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.95 %
 ```
 
 <!--END_SECTION:waka-->
