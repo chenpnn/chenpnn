@@ -1,9 +1,16 @@
-### Hi, I am Peng Chen! 👋
-- I am a Ph.D. student at the [University of Science and Technology of China](https://www.ustc.edu.cn/).
-- My interests spanned statistics, machine learning and optimization.
-- I am a member of [abess-team](https://github.com/abess-team).
+# Hi, I am Peng Chen! 👋
+### 📈 Financial Engineering / Quantitative Analyst
 
-### My Summary Cards
+---
+
+## 🚀 About Me
+- 💼 Currently working as a **Quantitative Analyst at XYZ**.
+- 🎓 Ph.D. in **Statistics** from [University of Science and Technology of China](https://www.ustc.edu.cn/).
+- 🧪 Specialized in statistical modeling, numerical optimization, and quantitative investment strategies.
+- ⚡ I’m passionate about bridging the gap between rigorous statistical theory and real-world financial markets.
+- 🧑‍💻 I am a member of [abess-team](https://github.com/abess-team).
+
+## 📊 My Summary Cards
 <div align="center">
 <!-- <p>
 <a href="https://github-profile-summary-cards.vercel.app/demo.html">Get your own cards now!!</a>
@@ -16,7 +23,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=chenpnn&theme=buefy&utcOffset=8)
 </div>
 
-### My WakaTime Coding Activity
+## 🛠 My WakaTime Coding Activity
 <!--START_SECTION:waka-->
 
 ```txt
