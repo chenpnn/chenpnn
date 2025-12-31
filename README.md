@@ -1,6 +1,9 @@
 # Hi, I am Peng Chen! 👋
 ### 📈 Financial Engineering / Quantitative Analyst
 
+> "The true logic of this world is in the calculus of probabilities. " — J. C. Maxwell
+
+> "ML is inherently linked to optimization not probability theory. " — Dimitris Bertsimas
 ---
 
 ## 🚀 About Me
