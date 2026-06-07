@@ -26,7 +26,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=chenpnn&theme=buefy&utcOffset=8)
 </div>
 
-## 🛠 My WakaTime Coding Activity
+## 🛠 My WakaTime Coding Activity (over the Last 7 Days)
 <!--START_SECTION:waka-->
 
 ```txt
