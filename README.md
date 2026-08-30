@@ -30,9 +30,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python      5 hrs 47 mins         ████████████████████████▓   99.33 %
-Batchfile   1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
-JSON        0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
+Python   5 hrs 46 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
